@@ -4,6 +4,5 @@ console.log(torre);
 console.log(main);
 torre.addEventListener("click",change)
 function change(){
-   document.getElementById("hora").textContent = "19:00";
-   
+   document.querySelector("#hora").innerHTML = "<h1>19:00</h1>";
 }
