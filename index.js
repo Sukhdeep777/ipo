@@ -14,5 +14,4 @@ function change1(){
    console.log(fecha)
    let miAudio= new Audio("sounds/melodia.mp3")
    miAudio.play()
-   miAudio.currentTime(1000)
 }
