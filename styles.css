@@ -130,3 +130,12 @@ main{
         height: 100%;
     }
 }
+
+.hora{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+}
