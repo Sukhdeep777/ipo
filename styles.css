@@ -145,7 +145,8 @@ main{
 
 .fecha{
     position: absolute;
-    top: 520px;
-    left: 460px;
-    
+    top: 670px;
+    left: 470px;
+    color: #fff;
+    font-size: 1.5rem;
 }
