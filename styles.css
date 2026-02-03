@@ -23,7 +23,7 @@ main{
     height: 600px;
     position: absolute;
     bottom: 0;
-    border-radius: 35%;
+    border-radius: 35% 35% 0 0;
 }
 
 .torre{
@@ -157,4 +157,20 @@ main{
     left: 470px;
     color: #fff;
     font-size: 1.5rem;
+}
+
+.titulo{
+    position: absolute;
+    color: #fff;
+    left: 370px;
+    top: 20px;
+    text-transform: uppercase;
+    background: #353a7e;
+    width: 400px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    box-shadow: 0 0 50px #000;
 }
